@@ -1,3 +1,3 @@
 # ONE-TCC
-## Ronaldo Miraglia Brandão de Lima | Professor Orientador: Prof. Dr. Irineu Sotoma
+## Ronaldo Miraglia Brandão de Lima
 ## Trabalho de Conclusão de Curso - Sistemas de Informação
